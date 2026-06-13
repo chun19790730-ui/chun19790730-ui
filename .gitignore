@@ -1,0 +1,16 @@
+# 대용량 파일
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# 시스템
+.DS_Store
+
+# 민감 정보
+client_secrets.json
+youtube_token.pickle
