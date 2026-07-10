@@ -51,7 +51,14 @@
 
 ## 산출물
 
-### v4 — 최종 (2026-07-10, 템포·글자 규칙 반영)
+### v5 — 최종 (2026-07-10, 장면 간격 0.5초 수준으로 압축)
+
+- 잡 ID: `7002e917-d189-4c34-981d-9294b80bf29f` (explainer_video, 768x1344, 8블록, 약 40초)
+- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_103821_7002e917-d189-4c34-981d-9294b80bf29f.mp4
+- 변경: 클립 여유분을 +0.5초로 축소 (클립 길이 4·3·4·5·4·4·6·10초) — 장면 간 체감 무음 평균 0.5초 안팎, 총 46→40초
+- v5 추가 크레딧: 약 60 (잔액 668.45 → 608.45)
+
+### v4 (참고용, 폐기)
 
 - 잡 ID: `5f7315d5-696f-4389-b5a1-ffac69492de7` (explainer_video, 768x1344, 8블록, 약 46초)
 - URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_095926_5f7315d5-696f-4389-b5a1-ffac69492de7.mp4
