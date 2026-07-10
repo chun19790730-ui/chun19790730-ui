@@ -51,7 +51,15 @@
 
 ## 산출물
 
-### v2 — 최종 (2026-07-10, 사용자 피드백 반영)
+### v3 — 최종 (2026-07-10, 베르데코 브랜딩 반영)
+
+- 잡 ID: `8e541405-b413-4691-bc12-e348f17449d2` (explainer_video, 768x1344, 8블록, 약 61초)
+- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_091632_8e541405-b413-4691-bc12-e348f17449d2.mp4
+- 변경: 천반장 등장 컷 5개(1·2·4·5·7)를 새 캐릭터 엘리먼트 `천반장-베르데코`(8c7a6ad5)로 재생성 —
+  모자·안전모 정면 + 자켓 왼쪽 가슴에 베르데코 로고, 아디다스 로고 제거
+- v3 추가 크레딧: 약 69 (잔액 812.45 → 743.45)
+
+### v2 (참고용, 폐기)
 
 - 잡 ID: `34b78684-536b-442e-9cc5-7d7e4ac0cace` (explainer_video, 768x1344, 8블록, 약 61초)
 - URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_085703_34b78684-536b-442e-9cc5-7d7e4ac0cace.mp4
