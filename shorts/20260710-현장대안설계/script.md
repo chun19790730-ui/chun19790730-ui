@@ -48,3 +48,10 @@
 - 이 실행 환경은 미디어 CDN 다운로드가 차단되어 로컬 ffmpeg 조립 불가 →
   `explainer_video` 도구로 서버 측 조립 (통짜 나레이션 대신 블록별 세그먼트 음성 사용)
 - 이미지: nano_banana_flash 1k / 영상: wan2_7 720p 9:16 (7s×6컷 + 12s 클로징)
+
+## 산출물 (2026-07-10 완성)
+
+- 최종 영상 잡 ID: `5fb65f2f-89c7-4e71-99a1-78f13ca21c8c` (explainer_video, 768x1344, 8블록, 약 61초)
+- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_083937_5fb65f2f-89c7-4e71-99a1-78f13ca21c8c.mp4
+- 소요 크레딧: 약 98 (잔액 947.8 → 849.8)
+- 세그먼트 3·5는 초안이 길어(11.6s/9.9s) 문장 압축 후 재생성함. 최초 통짜 나레이션 1건은 미사용(구조 변경으로 폐기)
