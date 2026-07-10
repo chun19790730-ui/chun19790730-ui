@@ -49,9 +49,18 @@
   `explainer_video` 도구로 서버 측 조립 (통짜 나레이션 대신 블록별 세그먼트 음성 사용)
 - 이미지: nano_banana_flash 1k / 영상: wan2_7 720p 9:16 (7s×6컷 + 12s 클로징)
 
-## 산출물 (2026-07-10 완성)
+## 산출물
 
-- 최종 영상 잡 ID: `5fb65f2f-89c7-4e71-99a1-78f13ca21c8c` (explainer_video, 768x1344, 8블록, 약 61초)
-- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_083937_5fb65f2f-89c7-4e71-99a1-78f13ca21c8c.mp4
+### v2 — 최종 (2026-07-10, 사용자 피드백 반영)
+
+- 잡 ID: `34b78684-536b-442e-9cc5-7d7e4ac0cace` (explainer_video, 768x1344, 8블록, 약 61초)
+- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3G5IJipeiWimlfog3Ga23yLX6Jb/hf_20260710_085703_34b78684-536b-442e-9cc5-7d7e4ac0cace.mp4
+- 변경: ①나레이션 전체를 text2speech_v2(minimax)로 재생성 — 한국어 발음 자연화
+  ②도면 등장 컷(1·5·6)을 관공서·학교 평면도로 재생성 (아파트 단위세대 금지)
+- v2 추가 크레딧: 약 37 (잔액 849.8 → 812.45)
+
+### v1 (참고용, 폐기)
+
+- 잡 ID: `5fb65f2f-89c7-4e71-99a1-78f13ca21c8c` — seed_audio 발음, 아파트형 도면
 - 소요 크레딧: 약 98 (잔액 947.8 → 849.8)
 - 세그먼트 3·5는 초안이 길어(11.6s/9.9s) 문장 압축 후 재생성함. 최초 통짜 나레이션 1건은 미사용(구조 변경으로 폐기)
